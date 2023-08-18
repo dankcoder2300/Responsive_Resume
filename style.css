@@ -31,6 +31,7 @@ line-height: 1.5rem;
 font-weight: 520;
 }
 
+
 /* contact section*/
 .contact{
     display: flex;
@@ -54,6 +55,10 @@ hr{
     border: 1.5px dashed lightblue;
 }
 
+.heading{
+ color: #2596be;
+}
+
 .main{
     display: flex;
     flex-wrap: wrap;
@@ -69,6 +74,9 @@ hr{
     padding: 20px;
 }
 
+.project a{
+    font-weight: bolder;
+}
 
 @media (max-width:728px){
     .navbar{
